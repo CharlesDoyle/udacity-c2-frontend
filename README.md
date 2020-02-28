@@ -1,2 +1,2 @@
 # udacity-c2-frontend
-An exercise project for Project 2 of Udacity Cloud Developer Nanodegree
+An Ionic/Angular frontend exercise project in preparation for Project 2 of Udacity Cloud Developer Nanodegree.  The code in this frontend project is entirely written by Udacity.  I didn't add any code to it, only comments.  The CloudDeveloper Nanodegree is not teaching us to write frontend code.  It is used as a frontend for the udacity-c2-restapi backend, which I did add significant code to.  
